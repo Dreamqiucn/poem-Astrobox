@@ -24,6 +24,10 @@
             "icon": "",
             "title": "官方网站",
             "url": "https://dreamqiu.cn"
+        },{
+            "icon": "github-logo",
+            "title": "GitHub仓库",
+            "url": "https://github.com/Dreamqiucn/poem"
         }
     ],
     "downloads": {
